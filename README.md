@@ -11,7 +11,9 @@
 	<hr>
 ### :fire: My Stats :
 
-<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadim-nahle)](https://git.io/streak-stats)<p>
+<p>
+	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadim-nahle)](https://git.io/streak-stats)
+<p>
 
 
 
