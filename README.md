@@ -10,7 +10,7 @@
   <p>
 	<hr>
 
-![Nadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadim-nahle&theme=chartreuse-dark&show_icons=true)
+<p align="centre"> ![Nadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadim-nahle&theme=chartreuse-dark&show_icons=true) <p>
 
 
 
