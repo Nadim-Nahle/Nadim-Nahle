@@ -56,7 +56,7 @@
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-
+	<p> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadim-nahle)](https://github.com/nadim-nahle/github-readme-stats) <p>
 </p>
  👉 Operating Systems
  
@@ -68,3 +68,5 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
     .
+	
+
