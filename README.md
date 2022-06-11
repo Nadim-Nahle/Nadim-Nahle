@@ -8,6 +8,14 @@
 - 📫 How to reach me ... nahlenadim@gmail.com
 - :smile: pronouns ... he/him
   <p>
+	<hr>
+
+![Nadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadim-nahle&theme=chartreuse-dark&show_icons=true)
+
+
+
+
+<hr>
    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 	<a href="mailto:nahlenadim@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -69,7 +77,4 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
     .
 </p>
-<p align="centre">
-	### :fire: My Stats : 
-	https://github-readme-streak-stats.herokuapp.com/?user=nadim-nahle
-</p>
+
