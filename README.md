@@ -9,8 +9,8 @@
 - :smile: pronouns ... he/him
   <p>
 	<hr>
-
-<p align="centre"> ![Nadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadim-nahle&theme=chartreuse-dark&show_icons=true) <p>
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=nadim-nahle
 
 
 
