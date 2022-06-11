@@ -10,7 +10,8 @@
   <p>
 	<hr>
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=nadim-nahle
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadim-nahle)](https://git.io/streak-stats)
 
 
 
