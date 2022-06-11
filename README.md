@@ -1,6 +1,6 @@
 
   <h1 align="center"><img src="https://media.giphy.com/media/IGZMgRo8IqWPFFwwzy/giphy.gif" width="70%" height="200">
-<br>👋 Hi , I'm Nadim Nahle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I am curretly studying full stack develepoment</h1>
+<br>👋 Hi , I'm Nadim Nahle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I am a full stack developer</h1>
 
 - 👀 I’m interested in ... web developemnt and making things happen
 - 🌱 I’m currently learning ... web developement
