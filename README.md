@@ -12,7 +12,7 @@
 ### :fire: My Stats :
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadim-nahle)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadim-nahle)](https://git.io/streak-stats)
 
 
 
@@ -78,6 +78,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-    .
+    
 </p>
 
