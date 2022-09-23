@@ -8,8 +8,8 @@
 - 📫 Reach me at **nahlenadim@gmail.com**
 - 🙉 Hobbies include, Hiking, Foorball, Basketball and Eating
 	<hr>
-### :fire: My Stats :
- [![committers.top badge](https://user-badge.committers.top/lebanon/Nadim-Nahle.svg)](https://user-badge.committers.top/lebanon/Nadim-Nahle)
+### :fire: My Stats :  [![committers.top badge](https://user-badge.committers.top/lebanon/Nadim-Nahle.svg)](https://user-badge.committers.top/lebanon/Nadim-Nahle)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/?username=Nadim-Nahle&theme=dracula" /> </p>
 
  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadim-nahle" /> </p>
