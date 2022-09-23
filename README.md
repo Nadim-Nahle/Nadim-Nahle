@@ -5,6 +5,7 @@
 - 🚨 My Portfolio [Portfolio](https://nadim-portfolio.vercel.app/)
 - 🌱 Always learning web development
 - 🚀 Tech enthusiast
+- 📫 Reach me at **nahlenadim@gmail.com**
 - 🙉 Hobbies include, Hiking, Foorball, Basketball and Eating
 	<hr>
 ### :fire: My Stats :
