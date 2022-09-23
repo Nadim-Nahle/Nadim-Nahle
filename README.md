@@ -10,7 +10,7 @@
 	<hr>
 ### :fire: My Stats :
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Nadim-Nahle&theme=dracula" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/?username=Nadim-Nahle&theme=dracula" /> </p>
 
 
 
