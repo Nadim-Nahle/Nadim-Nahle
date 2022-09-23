@@ -1,17 +1,16 @@
+## [![Nadim-Nahle header](https://github.com/rebelchris/rebelchris/blob/master/assets/social-cover.png)](https://nadim-portfolio.vercel.app/)
 
-  <h1 align="center"><img src="https://media.giphy.com/media/IGZMgRo8IqWPFFwwzy/giphy.gif" width="70%" height="200">
-<br>👋 Hi , I'm Nadim Nahle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I am a full stack developer</h1>
+### Hi there 👋
 
-- 👀 I’m interested in ... web developemnt and making things happen
-- 🌱 I’m currently learning ... web developement
-- 💞️ I’m looking to collaborate on ... new projects
-- 📫 How to reach me ... nahlenadim@gmail.com
-- :smile: pronouns ... he/him
-  <p>
+- 🚨 My Portfolio [Portfolio](https://nadim-portfolio.vercel.app/)
+- 🌱 Always learning web development
+- 🚀 Tech enthusiast
+- 🙉 Hobbies include, Hiking, Foorball, Basketball and Eating
 	<hr>
 ### :fire: My Stats :
 
-[![committers.top badge](https://user-badge.committers.top/lebanon/Nadim-Nahle.svg)](https://user-badge.committers.top/lebanon/Nadim-Nahle)</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Nadim-Nahle&theme=dracula" />
+
 
 
 
@@ -22,7 +21,7 @@
 
 
 <hr>
-   Connect with me
+  Connect with me
 <p align="center">
 	<a href="mailto:nahlenadim@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Nadim-Nahle"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -53,6 +52,10 @@
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/javascript%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
 
