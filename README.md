@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🚨 My Portfolio [Portfolio](https://nadim-portfolio.vercel.app/)
+- 🚨 Checkout my [Portfolio](https://nadim-portfolio.vercel.app/)
 - 🌱 Always learning web development
 - 🚀 Tech enthusiast
 - 📫 Reach me at **nahlenadim@gmail.com**
