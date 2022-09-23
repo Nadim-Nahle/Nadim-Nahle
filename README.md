@@ -12,14 +12,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/?username=Nadim-Nahle&theme=dracula" /> </p>
 
-
-
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadim-nahle)](https://git.io/streak-stats)
-
-
-
-
+ <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadim-nahle" /> </p>
 
 <hr>
   Connect with me
