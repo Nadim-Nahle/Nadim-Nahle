@@ -9,7 +9,7 @@
 - 🙉 Hobbies include, Hiking, Foorball, Basketball and Eating
 	<hr>
 ### :fire: My Stats :
-
+<p align="center"> [![committers.top badge](https://user-badge.committers.top/lebanon/Nadim-Nahle.svg)](https://user-badge.committers.top/lebanon/Nadim-Nahle)</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/?username=Nadim-Nahle&theme=dracula" /> </p>
 
  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadim-nahle" /> </p>
